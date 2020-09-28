@@ -39,13 +39,9 @@ body, html {
   cursor: pointer;
 }
 
-.hero-text button:hover {
-  background-color: #555;
-  color: white;
-}
 
 
-
+/* footer styling */
 .fa {
     padding: 20px;
     font-size: 30px;
